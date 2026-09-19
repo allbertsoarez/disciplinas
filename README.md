@@ -10,8 +10,8 @@ Escolha o seu nível de ensino abaixo para acessar o material:
 
 ### 🏫 ENSINO MÉDIO
 - 📐 **[Matemática](ensino-medio/matematica/README.md)**
-  - [Módulo 01: Funções e Gráficos](ensino-medio/matematica/modulo-01-funcoes/README.md)
-  - [Módulo 02: Geometria Analítica](ensino-medio/matematica/modulo-02-geometria/README.md)
+  - [Módulo 01: Funções e Gráficos](ensino-medio/README.md)
+  
 
 ---
 
