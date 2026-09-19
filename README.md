@@ -6,7 +6,7 @@ Olá! Este repositório contém todo o material didático organizado por discipl
 
 | Disciplina | Nível | Módulo Atual | Link |
 | :--- | :---: | :---: | :--- |
-| 💻 Linguagem de Programação | Técnico | Módulo 1 | [Acessar](ensino-tecnico/linguagem-de-programacaolinguagem-de-programacao/) |
+| 💻 Linguagem de Programação | Técnico | Módulo 1 | [Acessar](ensino-tecnico/linguagem-de-programacao/modulo-01-introducao/README.md) |
 | 🗄️ Banco de Dados | Técnico | Módulo 1 | [Acessar](disciplinas/banco-de-dados/) |
 | 🌐 Redes de Computadores | Técnico | Módulo 1 | [Acessar](disciplinas/redes-de-computadores/) |
 | 📐 Matemática Aplicada | Médio | Módulo 3 | [Acessar](ensino-fundamental-medio/matematica/) |
