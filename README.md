@@ -1,17 +1,47 @@
-# 📘 Portal de Materiais de Aula
+# 🎓 Portal de Materiais de Aula
 
-Olá! Este repositório contém todo o material didático organizado por disciplinas e módulos.
+Seja bem-vindo(a) ao repositório oficial de materiais didáticos! Aqui você encontra todo o conteúdo organizado por nível de ensino e disciplina.
 
-## 📚 Disciplinas Disponíveis
+---
 
-| Disciplina | Nível | Módulo Atual | Link |
-| :--- | :---: | :---: | :--- |
-| 💻 Linguagem de Programação | Técnico | Módulo 1 | [Acessar](disciplinas/linguagem-de-programacao/) |
-| 🗄️ Banco de Dados | Técnico | Módulo 1 | [Acessar](disciplinas/banco-de-dados/) |
-| 🌐 Redes de Computadores | Técnico | Módulo 1 | [Acessar](disciplinas/redes-de-computadores/) |
-| 📐 Matemática Aplicada | Médio | Módulo 3 | [Acessar](ensino-fundamental-medio/matematica/) |
+## 📑 SUMÁRIO GERAL
 
-## 🚀 Como usar este material
-1. Clique na disciplina desejada na tabela acima.
-2. Leia o `README.md` do módulo para entender a teoria.
-3. Baixe os códigos na pasta `codigo/` para praticar.
+Escolha o seu nível de ensino abaixo para acessar o material:
+
+### 🏫 ENSINO MÉDIO
+- 📐 **[Matemática](ensino-medio/matematica/README.md)**
+  - [Módulo 01: Funções e Gráficos](ensino-medio/matematica/modulo-01-funcoes/README.md)
+  - [Módulo 02: Geometria Analítica](ensino-medio/matematica/modulo-02-geometria/README.md)
+
+---
+
+### 💻 ENSINO TÉCNICO
+- ⌨️ **[Linguagem de Programação](ensino-tecnico/linguagem-de-programacao/README.md)**
+  - [Módulo 01: Introdução e Lógica](ensino-tecnico/linguagem-de-programacao/modulo-01-introducao/README.md)
+
+---
+
+- 🗄️ **[Banco de Dados](ensino-tecnico/banco-de-dados/README.md)**
+
+---
+
+- 🌐 **[Redes de Computadores](ensino-tecnico/redes-de-computadores/README.md)**
+
+---
+
+## 📂 Como este repositório está organizado?
+
+Dentro de cada módulo, você encontrará uma padronização para facilitar seus estudos:
+
+| Pasta / Arquivo | O que contém? |
+| :--- | :--- |
+| 📄 `README.md` | A teoria da aula, explicações e conceitos principais. |
+| 📁 `codigo/` | Arquivos práticos para baixar (`.py`, `.c`, `.ipynb`, `.sql`). |
+| 📁 `assets/` | Imagens, diagramas e arquivos de apoio visual. |
+| 📁 `atividades/` | Listas de exercícios, desafios e projetos do módulo. |
+
+---
+
+## 🚀 Dicas para os Alunos
+
+1. **Matemática**: Nos módulos de matemática, utilize os scripts na pasta `codigo/` para visualizar os gráficos das funções
